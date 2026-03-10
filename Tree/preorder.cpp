@@ -14,18 +14,19 @@ struct TreeNode{
         right = NULL;
     }
 };
-void postorderT(TreeNode* root, vector<int> &result){
+
+ void preorder(TreeNode* root,vector<int> &ans){
         if(root==nullptr) return;
-        postorderT(root->left,result);
-        postorderT(root->right,result);
-        result.push_back(root->val);
+        ans.push_back(root->val);
+        preorder(root->left,ans);
+        preorder(root->right,ans);
     }
-vector<int> postorderTraversal(TreeNode* root) {
-        vector<int> result ;
-        postorderT(root,result);
-        
-        return result;
+    vector<int> preorderTraversal(TreeNode* root) {
+        vector<int> ans;
+        preorder(root, ans);
+        return ans;
     }
+
 int main(){
 
     TreeNode* root = new TreeNode(1);
@@ -34,11 +35,13 @@ int main(){
     root->left->left = new TreeNode(4);
     root->left->right = new TreeNode(5);
 
-    vector<int> ans = postorderTraversal(root);
+    vector<int> ans = preorderTraversal(root);
 
     for(auto x : ans){
         cout << x << " ";
-    }
+        }
+        
+    
 
     return 0;
 }
