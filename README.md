@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Khushi1718/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Khushi1718/DSA/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Khushi1718/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/Khushi1718/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Khushi1718/DSA/tree/master/0733-flood-fill) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Khushi1718/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/Khushi1718/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Khushi1718/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Khushi1718/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Khushi1718/DSA/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Khushi1718/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Khushi1718/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Khushi1718/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Khushi1718/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Khushi1718/DSA/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Khushi1718/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Khushi1718/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Khushi1718/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Khushi1718/DSA/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Khushi1718/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Khushi1718/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Khushi1718/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Khushi1718/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Khushi1718/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Khushi1718/DSA/tree/master/0733-flood-fill) |
 ## Two Pointers
 |  |
