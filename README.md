@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Khushi1718/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Khushi1718/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Khushi1718/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/Khushi1718/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Khushi1718/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Khushi1718/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Khushi1718/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/Khushi1718/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Khushi1718/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Khushi1718/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Khushi1718/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
