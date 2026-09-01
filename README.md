@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Khushi1718/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Khushi1718/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Khushi1718/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushi1718/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Khushi1718/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Khushi1718/DSA/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Khushi1718/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Khushi1718/DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushi1718/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Khushi1718/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Khushi1718/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Khushi1718/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushi1718/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Khushi1718/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Khushi1718/DSA/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/Khushi1718/DSA/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushi1718/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Khushi1718/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Khushi1718/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Khushi1718/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushi1718/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
 |  |
 | ------- |
