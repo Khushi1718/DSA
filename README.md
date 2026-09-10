@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Khushi1718/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Khushi1718/DSA/tree/master/0018-4sum) |
+| [0041-first-missing-positive](https://github.com/Khushi1718/DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Khushi1718/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Khushi1718/DSA/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/Khushi1718/DSA/tree/master/0152-maximum-product-subarray) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Khushi1718/DSA/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Khushi1718/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Khushi1718/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Khushi1718/DSA/tree/master/1331-rank-transform-of-an-array) |
