@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Khushi1718/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Khushi1718/DSA/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Khushi1718/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Khushi1718/DSA/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/Khushi1718/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Khushi1718/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Khushi1718/DSA/tree/master/0198-house-robber) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Khushi1718/DSA/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Khushi1718/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Khushi1718/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Khushi1718/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
