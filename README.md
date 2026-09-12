@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Khushi1718/DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Khushi1718/DSA/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Khushi1718/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Khushi1718/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Khushi1718/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Khushi1718/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Khushi1718/DSA/tree/master/0695-max-area-of-island) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Khushi1718/DSA/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Khushi1718/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Khushi1718/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Khushi1718/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Khushi1718/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Khushi1718/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Khushi1718/DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
