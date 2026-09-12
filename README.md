@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Khushi1718/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Khushi1718/DSA/tree/master/0733-flood-fill) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Khushi1718/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Khushi1718/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Khushi1718/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Khushi1718/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Khushi1718/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Khushi1718/DSA/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Khushi1718/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Khushi1718/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Khushi1718/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Khushi1718/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Khushi1718/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Khushi1718/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Khushi1718/DSA/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Khushi1718/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Khushi1718/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Khushi1718/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Khushi1718/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Khushi1718/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Khushi1718/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Khushi1718/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Khushi1718/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Khushi1718/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Khushi1718/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Khushi1718/DSA/tree/master/0724-find-pivot-index) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Khushi1718/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Khushi1718/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Khushi1718/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Khushi1718/DSA/tree/master/3312-sorted-gcd-pair-queries) |
