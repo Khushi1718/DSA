@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Khushi1718/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Khushi1718/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Khushi1718/DSA/tree/master/0695-max-area-of-island) |
+| [0724-find-pivot-index](https://github.com/Khushi1718/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Khushi1718/DSA/tree/master/0733-flood-fill) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Khushi1718/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1260-shift-2d-grid](https://github.com/Khushi1718/DSA/tree/master/1260-shift-2d-grid) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Khushi1718/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Khushi1718/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Khushi1718/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Khushi1718/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Khushi1718/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Khushi1718/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Khushi1718/DSA/tree/master/3312-sorted-gcd-pair-queries) |
