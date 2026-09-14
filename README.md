@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Khushi1718/DSA/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/Khushi1718/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Khushi1718/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/Khushi1718/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Khushi1718/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Khushi1718/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Khushi1718/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Khushi1718/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [1004-max-consecutive-ones-iii](https://github.com/Khushi1718/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Khushi1718/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Khushi1718/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Khushi1718/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Khushi1718/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Khushi1718/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/Khushi1718/DSA/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Khushi1718/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Khushi1718/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Khushi1718/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Khushi1718/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Khushi1718/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Khushi1718/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Khushi1718/DSA/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Khushi1718/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Khushi1718/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Khushi1718/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Khushi1718/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
