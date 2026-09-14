@@ -1,18 +1,16 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        unordered_map<char,int> mp, ms;
+        if(s1.length() > s2.length()) return false;
+        vector<int> a(26, 0), b(26, 0);
         int m = s1.length();
-        for(char ch : s1) mp[ch]++;
-        int left = 0;
-        for(int right = 0; right < s2.length(); right++){
-            ms[s2[right]]++;
-            if(right - left + 1 == m){
-                if(ms == mp) return true;
-                ms[s2[left]]--;
-                if(ms[s2[left]] == 0) ms.erase(s2[left]);
-                left++;
-            }
+        for(char ch : s1) a[ch - 'a']++;
+        for(int i = 0; i < m; i++) b[s2[i] - 'a']++;
+        if(a == b) return true;
+        for(int right = m; right < s2.length(); right++){
+            b[s2[right] - 'a']++;
+            b[s2[right - m] - 'a']--;
+            if(a == b) return true;
         }
         return false;
     }
