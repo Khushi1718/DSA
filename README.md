@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Khushi1718/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Khushi1718/DSA/tree/master/0018-4sum) |
+| [0143-reorder-list](https://github.com/Khushi1718/DSA/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/Khushi1718/DSA/tree/master/0567-permutation-in-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Khushi1718/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Khushi1718/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Khushi1718/DSA/tree/master/0143-reorder-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Khushi1718/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Khushi1718/DSA/tree/master/0143-reorder-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Khushi1718/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Longest Increasing Subsequence
 |  |
@@ -320,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Khushi1718/DSA/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Khushi1718/DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
