@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Khushi1718/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Khushi1718/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Khushi1718/DSA/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Khushi1718/DSA/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Khushi1718/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Khushi1718/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Khushi1718/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -293,10 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Khushi1718/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Khushi1718/DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Khushi1718/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/Khushi1718/DSA/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Khushi1718/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Khushi1718/DSA/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Khushi1718/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
 |  |
