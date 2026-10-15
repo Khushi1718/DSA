@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Khushi1718/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Khushi1718/DSA/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Khushi1718/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Khushi1718/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Khushi1718/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Khushi1718/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Khushi1718/DSA/tree/master/0143-reorder-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Khushi1718/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -327,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Khushi1718/DSA/tree/master/0143-reorder-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Khushi1718/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
