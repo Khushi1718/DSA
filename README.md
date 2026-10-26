@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Khushi1718/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Khushi1718/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0441-arranging-coins](https://github.com/Khushi1718/DSA/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/Khushi1718/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Khushi1718/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Khushi1718/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Khushi1718/DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Khushi1718/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0441-arranging-coins](https://github.com/Khushi1718/DSA/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Khushi1718/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Khushi1718/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Khushi1718/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
