@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Khushi1718/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Khushi1718/DSA/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Khushi1718/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Khushi1718/DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Khushi1718/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Khushi1718/DSA/tree/master/0066-plus-one) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Khushi1718/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Khushi1718/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Khushi1718/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/Khushi1718/DSA/tree/master/0441-arranging-coins) |
